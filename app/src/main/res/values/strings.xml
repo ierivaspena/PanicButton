@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">PanicButton</string>
+    <string name="about">About</string>
+    <string name="eyes_on_the_street_is_a_crowdsourcing_application_where_users_report_crime_perceived_danger_and_suspicious_activities_to_enhance_their_daily_commuting_alternatives">Eyes on the street is a crowdsourcing application where users report crime, perceived danger, and suspicious activities to enhance their daily commuting alternatives.</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="developers">Developers:</string>
+    <string name="instructions">Instructions</string>
+    <string name="step_1_if_you_are_in_trouble_the_only_thing_you_have_to_do_is_press_the_button_to_ask_for_help_and_the_button_will_send_an_alert_to_someone_in_the_faculty_displaying_your_real_location_and_your_information_that_way_you_will_receive_help_as_soon_as_possible">Step 1, If you are in trouble the only thing you have to do is PRESS THE BUTTON to ask for help and the button will send an alert to someone in the faculty displaying your real location and your information, that way you will receive help as soon as possible.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">log in</string>
+    <string name="not_registered_register_here">Not registered? Register here!</string>
+    <string name="if_you_need_help_press_the_button">If you need help, press the button!</string>
+    <string name="welcome">Welcome!</string>
+    <string name="points_earned">Points earned:</string>
+    <string name="points_earned_hint">Points earned</string>
+    <string name="name">Name:</string>
+    <string name="name_hint">Name</string>
+    <string name="username_profile">Username:</string>
+    <string name="username_hint_profile">Username</string>
+    <string name="gender">Gender:</string>
+    <string name="gender_hint">Gender</string>
+    <string name="date_of_birth">Date Of Birth:</string>
+    <string name="mm_dd_yyyy">MM/DD/YYYY</string>
+    <string name="home">Home</string>
+    <string name="insert_the_following_information">Insert the following information</string>
+    <string name="add_name">Add name</string>
+    <string name="name_hint_reg">Name</string>
+    <string name="add_last_name">Add Last Name</string>
+    <string name="last_name_register">Last name</string>
+    <string name="date_of_birth_reg">Date of birth</string>
+    <string name="mm_dd_yyy_reg">MM/DD/YYY</string>
+    <string name="select_gender_reg">Select gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="i_wish_not_to_disclose">I wish not to disclose.</string>
+    <string name="provide_a_username">Provide a username</string>
+    <string name="username_hint_register">Username</string>
+    <string name="provide_a_password">Provide a password</string>
+    <string name="password_hint_register">Password</string>
+    <string name="provide_same_password">Provide same password</string>
+    <string name="confirm_password_reg">Confirm Password</string>
+    <string name="log_in_register">log in</string>
+    <string name="already_registered_click_here">Already registered? Click here!</string>
+    <string name="thank_you">Thank You</string>
+    <string name="report_submitted">Report Submitted</string>
+    <string name="someone_is_on_coming_to_assist_you">Someone is on coming to assist you!</string>
+    <string name="you_are_here">You are here:</string>
+
+
+</resources>
